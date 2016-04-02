@@ -1,7 +1,7 @@
 name: Schiller Photographic
 favicon: null
-layout_spectrum: 0.8325423770584166
-typography_spectrum: 0.6700777444057167
+layout_spectrum: 1
+typography_spectrum: 0.95841
 cta:
   domain: null
   bucket: null
